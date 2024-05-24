@@ -27,7 +27,9 @@ root.render(
 
       <Weather city="Yazd" />
       Sorry for delay, I tried really hard to make these homework finalized. I had lots issues. 
-      <a href="https://github.com/zarzani/6--react">my GitHub Link</a>
+      <br/>
+
+      <a href="https://github.com/zarzani/6--react">my GitHub Link target=”_blank” attribute </a>
     </div>
   </StrictMode>
 );
