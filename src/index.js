@@ -26,6 +26,8 @@ root.render(
       <h3>my Town</h3>
 
       <Weather city="Yazd" />
+      
+      <a href="https://github.com/zarzani/6--react">my GitHub Link</a>
     </div>
   </StrictMode>
 );
